@@ -1,2 +1,1 @@
-# deployement link
-https://minds-quiz.netlify.app/
+deployed site link : https://minds-quiz.netlify.app/
